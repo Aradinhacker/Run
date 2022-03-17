@@ -1,4 +1,4 @@
-GNU nano 6.2                 bsn.py                           import os,platform
+GNU nano 6.2                 Go.py                           import os,platform
 os.system('git pull')
 
 bsn=platform.architecture()[0]
